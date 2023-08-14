@@ -1,4 +1,4 @@
-Dockerized Web Server with WordPress, MySQL, and PhpMyAdmin for windows
+Dockerized Web Server with WordPress, MySQL, and PhpMyAdmin for **Windows**. 
 
 This GitHub project provides a convenient way to set up a local development environment for a web server using Docker. The environment includes containers for WordPress, MySQL, and PhpMyAdmin, allowing you to easily develop, test, and manage your web applications.
 
@@ -19,7 +19,7 @@ How to Run the Project:
 2. **Clone the Repository:** Clone this GitHub repository to your local machine.
 
    ```bash
-   git clone [https://github.com/your-username/your-repo.git](https://github.com/Anchenni/docker-web-server-wordpress.git)
+   git clone https://github.com/Anchenni/docker-web-server-wordpress.git
    ```
 
 3. **Navigate to the Project Directory:** Move into the project directory.
